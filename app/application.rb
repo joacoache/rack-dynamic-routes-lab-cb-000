@@ -24,17 +24,3 @@ class Application
 
 end
 
-<!DOCTYPE html>
-<html lang="en">
-  <head>
-    <meta charset="UTF-8">
-    <meta name="description" content="Exceptional Realty Group, your real estate agent for buying, selling, and renting throughout New York City">
-    <meta name="keywords" content="Exceptional Realty Group, real estate, houses, property">
-    <meta name="author" content="Joaquin Herrerar">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://fonts.googleapis.com/css?family=Monoton" rel="stylesheet">
-    <title>Exceptional Realty Group - Luxury Homes - About</title>
-  </head>
-  
-  
-</html>
